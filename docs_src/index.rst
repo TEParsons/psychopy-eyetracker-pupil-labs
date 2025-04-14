@@ -2,7 +2,7 @@
 Welcome to psychopy-eyetracker-pupil-labs's documentation!
 =======================================================
 
-The `psychopy-eyetracker-pupil-labs` plugin is designed to show you how to make a plugin.
+The `psychopy-eyetracker-pupil-labs` plugin adds Pupil Labs to the supported eyetracker devices in ioHub.
 
 .. toctree::
    :maxdepth: 1
